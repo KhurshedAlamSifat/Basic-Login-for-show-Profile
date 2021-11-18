@@ -1,0 +1,12 @@
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\bin\Debug\LoginProfile.exe.config
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\bin\Debug\LoginProfile.exe
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\bin\Debug\LoginProfile.pdb
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\obj\Debug\LoginProfile.csproj.AssemblyReference.cache
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\obj\Debug\LoginProfile.Form1.resources
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\obj\Debug\LoginProfile.Form2.resources
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\obj\Debug\LoginProfile.Properties.Resources.resources
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\obj\Debug\LoginProfile.csproj.GenerateResource.cache
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\obj\Debug\LoginProfile.csproj.CoreCompileInputs.cache
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\obj\Debug\LoginProfile.exe
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\obj\Debug\LoginProfile.pdb
+C:\Users\Khurshed Alam Sifat\source\repos\LoginProfile\LoginProfile\obj\Debug\LoginProfile.Form3.resources
